@@ -9,7 +9,7 @@ This python script utilizes zstd compression and decompression method (soon to c
 (more information will be added soon).
 
 
-This script will encrypt contents inside a DIRECTORY / FOLDER into one .zst file. (WARNING: No decompression methods are implemented, use at your own risk.) 
+This script will encrypt contents inside a DIRECTORY / FOLDER into one .zst file (compressed_files.zst). (WARNING: No decompression methods are implemented, use at your own risk.) 
 
 ### Requirements:
 ```pip3 install zstd```
