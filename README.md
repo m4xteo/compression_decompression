@@ -17,5 +17,5 @@ This script will encrypt contents inside a DIRECTORY / FOLDER into one .zst file
 ### Usage:
 ```python3 fileCompression.py PATH```
 
-e.g 
+e.g:
 ```python3 fileCompression.py /Documents/```
